@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="title_home">Home</string>
+    <string name="title_play">Play</string>
+    <string name="title_daily">Daily Challenge</string>
+    <string name="title_stats">Statistics</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_login">Sign In</string>
+    <string name="title_register">Create Account</string>
+    <string name="action_login">Sign In</string>
+    <string name="action_register">Create Account</string>
+    <string name="action_logout">Sign Out</string>
+    <string name="action_switch_user">Switch User</string>
+    <string name="action_toggle_theme">Toggle Theme</string>
+    <string name="btn_new_game">New Game</string>
+    <string name="btn_restart">Restart</string>
+    <string name="btn_resume">Resume</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_hard">Hard</string>
+    <string name="difficulty_expert">Expert</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_redo">Redo</string>
+    <string name="action_erase">Erase</string>
+    <string name="action_notes">Notes</string>
+    <string name="action_hint">Hint</string>
+    <string name="stats_played">Played</string>
+    <string name="stats_won">Won</string>
+    <string name="stats_win_rate">Win Rate</string>
+    <string name="stats_best_time">Best Time</string>
+    <string name="stats_avg_time">Average Time</string>
+    <string name="stats_daily_streak">Daily Streak</string>
+</resources>
